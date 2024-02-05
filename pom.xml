@@ -69,7 +69,8 @@
         <dep.trino.version>387</dep.trino.version>
         <dep.wiremock.version>3.0.1</dep.wiremock.version>
         <dep.apache.commons.version>3.13.0</dep.apache.commons.version>
-
+        <sonar.organization>gympass</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
     <dependencyManagement>
